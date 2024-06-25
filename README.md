@@ -17,8 +17,10 @@ This web application allows users to transcribe and translate their voice record
 -   **Transcription Model**: [OpenAI Whisper](https://github.com/openai/whisper)
 -   **Translation Model**: [Xenova NLLB-200-Distilled-600M](https://huggingface.co/Xenova/nllb-200-distilled-600M)
 
+## Live Link
+https://voicescroll.vercel.app/
 
-## Getting Started
+## Deploying In Your Local Machine
 
 ### Prerequisites
 
