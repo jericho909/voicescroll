@@ -83,6 +83,7 @@ export default function HomePage(props) {
                 setFile(tempFile)
             }} className='hidden' type='file' accept='.mp3,.wave' /></label> a mp3 file</p>
             <p className='text-red-600 italic'>Only works in English for now</p>
+            <p className='text-red-600 bold'>Check the<a target='_blank' rel='noreferral' href="https://github.com/jericho909/voicescroll"><span className='text-blue-700'> Github repo.</span></a></p>
         </main>
     )
 }
